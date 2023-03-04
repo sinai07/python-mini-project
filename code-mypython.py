@@ -20,3 +20,10 @@ my_list.append(e)
 # Print my new list and len of list:
 print(my_list)
 print(len(my_list))
+
+# Delete tho services by index:
+del my_list[1:4]
+
+# Print updated list and len of list:
+print(my_list)
+print(len(my_list))
